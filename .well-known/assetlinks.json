@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "m.boundr.budget",
-    "sha256_cert_fingerprints": ["PASTE_YOUR_SHA256_HERE"]
+    "sha256_cert_fingerprints": ["4D:C7:71:E9:FC:BF:8C:D4:BE:FA:F4:36:36:55:CC:FE:E3:46:90:C8:CB:FE:11:39:D6:23:30:BD:FC:95:54:57"]
   }
 }]
