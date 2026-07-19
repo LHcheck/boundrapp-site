@@ -2,7 +2,10 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "m.boundr.budget",
-    "sha256_cert_fingerprints": ["4D:C7:71:E9:FC:BF:8C:D4:BE:FA:F4:36:36:55:CC:FE:E3:46:90:C8:CB:FE:11:39:D6:23:30:BD:FC:95:54:57"]
+    "package_name": "com.boundr.budget",
+    "sha256_cert_fingerprints": [
+      "27:B6:25:11:F8:CA:95:72:54:BE:B5:BA:67:80:A6:8C:A6:FB:61:1A:77:D8:E6:E2:E3:E8:55:90:91:BB:92:97",
+      "19:BF:C8:9E:DD:1D:45:18:B2:6A:7E:64:F5:64:91:C0:7E:08:46:09:4E:10:BE:CC:33:8D:0F:90:1C:50:D4:1F"
+    ]
   }
 }]
